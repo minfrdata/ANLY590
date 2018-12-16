@@ -13,3 +13,6 @@ model, we are able to generate music
 pieces. To make the generated music have
 better quality, some post-processing techniques
 have been used.
+
+
+Codes and notebooks are in the folder code-data
