@@ -1,1 +1,2 @@
 
+Musicians have composed music that has a precise structure. The goal of this project is to build a model using neural networks to generate music which is similar to human-created pieces. Previous work has tried various methods such as Hidden Markov Models, recurrent neural networks. In our project, we apply RNNs with long short-term memory cells on the music notes sequences to predict the next music notes. With the trained model, we are able to generate music pieces. To make the generated music have better quality, some post-processing techniques have been used. 
